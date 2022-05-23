@@ -1,3 +1,3 @@
 # Student_Management_System
 
-Simple web application for  creating student registration form.
+Simple project for  creating student registration form.
